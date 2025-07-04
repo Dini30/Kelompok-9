@@ -1,1 +1,1 @@
-# Kelompok-9
+# ThriDee Studio (Kelompok-9)
