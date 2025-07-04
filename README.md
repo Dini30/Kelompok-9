@@ -18,6 +18,11 @@ ThriDee Studio adalah sebuah platform digital dan studio kreatif yang berfokus p
 
 ---
 
+## 🎥 Demo Promosi
+[![Watch the video](https://img.youtube.com/vi/E3rJKe58K38/0.jpg)](https://youtu.be/Ge4WAe9p5uQ)
+
+---
+
 ## 🚀 Working Prototype
 
 ### 🌐 Web
